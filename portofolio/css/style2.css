@@ -1,0 +1,66 @@
+body{
+    background: whitesmoke;
+    color: #314e52;
+}
+
+.nav-bar{
+    background-color: white;
+    border-bottom: 1pk solid #e7e6e1;
+    display: flex;
+}
+
+.nav-item{
+    position: static;
+}
+
+.nav-link{
+    display: block;
+    padding: 20px 50px;
+    margin: 0;
+    color: #314e52;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: blue;
+}
+
+.gambar{
+    margin-left: 10px;
+}
+
+.profil{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-style: ridge;
+}
+
+.id{
+    margin-left: 100px;
+}
+
+.info{
+    margin-left: 240px;
+}
+
+.edit{
+    background: blue;
+    color: aqua;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.edit:hover{
+    color: red;
+}
+
+.input-item{
+    width: 1888px;
+}
+
+.submit-item{
+    background: green;
+    color: wheat;
+    height: 40px;
+    width: 1888px;
+}
